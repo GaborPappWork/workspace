@@ -1,0 +1,3 @@
+ssh/*
+!ssh/whatshere.txt
+.vagrant/*
